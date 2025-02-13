@@ -38,7 +38,7 @@ Add the dependency below to your **module**'s `build.gradle` file:
 
 ```gradle
 dependencies {
-    implementation("io.getstream:photoview:1.0.2")
+    implementation("io.getstream:photoview:1.0.3")
 }
 ```
 
